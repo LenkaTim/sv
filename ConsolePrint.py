@@ -2,7 +2,7 @@ from termcolor import colored
     
 def ConsolePrint():
     print "###  1   2   3   4   5   6   7   8   9  10"
-    print " A ", colored("[X]", "red"),"### ### ### ### ### ### ### ###"
+    print " A  [" + colored("X", "red") + "] ### ### ### ### ### ### ### ###"
     print " B  ### ### ### ### ### ### ### ### ###"
     print " C  ### ### ### ### ### ### ### ### ###"
     print " D  ### ### ### ### ### ### ### ### ###"
