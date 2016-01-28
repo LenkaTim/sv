@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 from ConsolePrint import ConsolePrint
 
-print "Hello World";
+print "Willkommen zu Schiffe versenken!";
 
 ConsolePrint()
