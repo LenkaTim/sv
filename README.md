@@ -1,4 +1,2 @@
-# sv
-Schiffeversenken
-
-Game
+# Schiffeversenken
+A simple Game.
